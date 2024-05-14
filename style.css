@@ -1,0 +1,19 @@
+.recipe {
+    background-color: pink;
+    text-align: center;
+}
+#chiffon {
+    color: blue;
+}
+#crepes {
+    color: green;
+}
+#toast {
+    color: red;
+}
+
+h1 {
+    font-weight: bold;
+    color: orange;
+    font-family: "Courier New";
+}
