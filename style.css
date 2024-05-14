@@ -4,16 +4,19 @@
 }
 #chiffon {
     color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #crepes {
     color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #toast {
     color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
     font-weight: bold;
     color: orange;
-    font-family: "Courier New";
+    font-family: 'Courier New', Courier, monospace;
 }
