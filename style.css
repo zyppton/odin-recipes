@@ -3,7 +3,7 @@
     text-align: center;
     margin: 0px 100px 0px 100px;
     font-weight: bold;
-    color: orange;
+    color: purple;
     font-family: 'Courier New', Courier, monospace;
     border-style: solid;
     border-color: black;
@@ -15,15 +15,16 @@
     border-color: black;
     border-width: 3px;
     text-align: center;
+    background-color: skyblue;
 }
 .recipe {
     background-color: skyblue;
     text-align: center;
     display: inline-block;
     margin: 10px;
-    border-style: solid;
-    border-color: black;
-    border-width: 1px;
+    border-style: dashed;
+    padding: 5px;
+ 
 }
 #chiffon {
     color: blue;
