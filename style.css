@@ -1,10 +1,35 @@
-.recipe {
-    background-color: pink;
+#title {
+
     text-align: center;
+    margin: 0px 100px 0px 100px;
+    font-weight: bold;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+#recipe-list {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    text-align: center;
+}
+.recipe {
+    background-color: skyblue;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
 }
 #chiffon {
     color: blue;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: black;
+    border-width: 1px;
 }
 #crepes {
     color: green;
@@ -16,7 +41,5 @@
 }
 
 h1 {
-    font-weight: bold;
-    color: orange;
-    font-family: 'Courier New', Courier, monospace;
+
 }
